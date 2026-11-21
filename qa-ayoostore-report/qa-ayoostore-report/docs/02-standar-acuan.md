@@ -1,6 +1,5 @@
-# 02. Standar Acuan (IEEE/ISO, terbit 2022-2026)
+# 02. Standar Acuan 
 
-Aturan tugas: hanya standar yang terbit **2022-2026** yang diterima sebagai acuan utama.
 
 ## Standar yang memenuhi rentang tahun
 
