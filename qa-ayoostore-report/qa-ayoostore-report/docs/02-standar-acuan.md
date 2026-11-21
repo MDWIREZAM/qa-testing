@@ -18,9 +18,6 @@ Bagian lain seri 29119 terbit **Oktober 2021**, sehingga di luar aturan 2022-202
 - ISO/IEC/IEEE 29119-3:2021 (Test documentation)
 - ISO/IEC/IEEE 29119-4:2021 (Test techniques)
 
-Keputusan yang perlu dikonfirmasi ke dosen: apakah ketiganya boleh disebut sebagai rujukan turunan dari Part 1:2022. Selama belum ada jawaban, laporan ini **tidak memakainya sebagai acuan utama**; struktur test plan di `03` hanya mengikuti konsep Part 1:2022 dan karakteristik 25010:2023.
-
-`[ISI]` Verifikasi ulang tahun terbit di situs resmi ISO/IEEE sebelum dikumpulkan. Teks lengkap standar berbayar; gunakan halaman resmi dan abstrak sebagai sumber kutipan.
 
 ## Pemetaan standar ke jenis pengujian
 
