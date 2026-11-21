@@ -3,7 +3,7 @@
 
 ## Pemetaan standar ke jenis pengujian
 
-| Karakteristik ISO/IEC 25010:2023| Jenis uji di proyek ini |
+| Karakteristik BSISO/IEC/IEEE 29119‑1:2022| Jenis uji di proyek ini |
 |---|---|
 | Functional suitability | Black box manual + otomatis |
 | Interaction capability ex-usability| Black box manual (alur pengguna) |
