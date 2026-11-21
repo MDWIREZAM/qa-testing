@@ -7,7 +7,7 @@ Aturan tugas: hanya standar yang terbit **2022-2026** yang diterima sebagai acua
 | Standar | Terbit | Dipakai untuk |
 |---|---|---|
 | ISO/IEC/IEEE 29119-1:2022, Software testing, Part 1: General concepts | Jan 2022 | Konsep dan istilah testing, dasar seluruh laporan |
-| ISO/IEC 25010:2023, SQuaRE, Product quality model | Nov 2023 | Menentukan karakteristik kualitas yang diuji (sembilan karakteristik, termasuk safety dan interaction capability yang baru) |
+| ISO/IEC 25010:2023, SQuaRE, Product quality model | Nov 2023 | Menentukan karakteristik kualitas yang diuji  |
 | ISO/IEC/IEEE 29119-5:2024, Part 5: Keyword-driven testing | Des 2024 | Acuan pengujian otomatis berbasis keyword |
 
 ## Standar pendamping yang TIDAK memenuhi rentang tahun
