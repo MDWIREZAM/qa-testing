@@ -1,6 +1,5 @@
 # Test Case Black Box (Manual): ayoostore.id
 
-Gunakan **data fiktif**. Jangan melakukan pembayaran sungguhan. Sesuaikan test case dengan fitur yang benar-benar ada
 ## A. Fungsional (EP dan BVA)
 
 | ID | Fitur | Teknik | Langkah | Hasil diharapkan | Hasil aktual | Status |
