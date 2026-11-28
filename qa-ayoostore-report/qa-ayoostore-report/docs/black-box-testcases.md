@@ -1,7 +1,6 @@
 # Test Case Black Box (Manual): ayoostore.id
 
-Gunakan **data fiktif**. Jangan melakukan pembayaran sungguhan. Sesuaikan test case dengan fitur yang benar-benar ada (`[VERIFIKASI]`); hapus yang tidak relevan.
-
+Gunakan **data fiktif**. Jangan melakukan pembayaran sungguhan. Sesuaikan test case dengan fitur yang benar-benar ada
 ## A. Fungsional (EP dan BVA)
 
 | ID | Fitur | Teknik | Langkah | Hasil diharapkan | Hasil aktual | Status |
@@ -35,5 +34,5 @@ Gunakan **data fiktif**. Jangan melakukan pembayaran sungguhan. Sesuaikan test c
 | NF-01 | Interaction capability | Selesaikan alur beli dari beranda; hitung jumlah klik | Alur jelas dan singkat | BElum | BELUM DIJALANKAN |
 | NF-02 | Compatibility | Buka beranda dan produk di Chrome, Firefox, Safari | Tampilan konsisten | BElum | BELUM DIJALANKAN |
 | NF-03 | Responsif | Buka di lebar 375px (ponsel) | Tanpa scroll horizontal, tombol terjangkau | BElum | BELUM DIJALANKAN |
-| NF-04 | Performance efficiency | Catat waktu muat beranda 3x (DevTools > Network) | BElum target, mis. di bawah 3 detik | `[ISI]` | BELUM DIJALANKAN |
+| NF-04 | Performance efficiency | Catat waktu muat beranda 3x (DevTools > Network) | BElum target, mis. di bawah 3 detik | Belum | BELUM DIJALANKAN |
 | NF-05 | Interaction capability | Cek label form, kontras teks, tab dengan keyboard | Dapat dipakai tanpa mouse |BElum | BELUM DIJALANKAN |
