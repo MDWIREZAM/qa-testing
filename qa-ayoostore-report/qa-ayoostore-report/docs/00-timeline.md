@@ -3,7 +3,6 @@
 ## Rincian
 
 ### Minggu 2
-- Lengkapi bagian `[VERIFIKASI]` di `01-pemilihan-aplikasi.md` setelah membuka situs.
 - Konfirmasi ke dosen: white box dilewati, dan kategori manual ketiga yang diterima.
 - Kirim email izin ke pemilik situs (draf di `01`), simpan balasannya.
 - Hubungi calon narasumber QA berpengalaman minimal 3 tahun.
