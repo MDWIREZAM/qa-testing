@@ -6,10 +6,7 @@ Aturan tugas: hanya standar yang terbit **2022-2026** yang diterima sebagai acua
 
 | Standar | Terbit | Dipakai untuk |
 |---|---|---|
-| ISO/IEC/IEEE 29119-1:2022, Software testing, Part 1: General concepts | Jan 2022 | Konsep dan istilah testing, dasar seluruh laporan |
 | ISO/IEC 25010:2023, SQuaRE, Product quality model | Nov 2023 | Menentukan karakteristik kualitas yang diuji (sembilan karakteristik, termasuk safety dan interaction capability yang baru) |
-| ISO/IEC/IEEE 29119-5:2024, Part 5: Keyword-driven testing | Des 2024 | Acuan pengujian otomatis berbasis keyword |
-
 ## Standar pendamping yang TIDAK memenuhi rentang tahun
 
 Bagian lain seri 29119 terbit **Oktober 2021**, sehingga di luar aturan 2022-2026:
@@ -18,10 +15,6 @@ Bagian lain seri 29119 terbit **Oktober 2021**, sehingga di luar aturan 2022-202
 - ISO/IEC/IEEE 29119-3:2021 (Test documentation)
 - ISO/IEC/IEEE 29119-4:2021 (Test techniques)
 
-Keputusan yang perlu dikonfirmasi ke dosen: apakah ketiganya boleh disebut sebagai rujukan turunan dari Part 1:2022. Selama belum ada jawaban, laporan ini **tidak memakainya sebagai acuan utama**; struktur test plan di `03` hanya mengikuti konsep Part 1:2022 dan karakteristik 25010:2023.
-
-`[ISI]` Verifikasi ulang tahun terbit di situs resmi ISO/IEEE sebelum dikumpulkan. Teks lengkap standar berbayar; gunakan halaman resmi dan abstrak sebagai sumber kutipan.
-
 ## Pemetaan standar ke jenis pengujian
 
 | Karakteristik ISO/IEC 25010:2023 | Jenis uji di proyek ini |
@@ -29,6 +22,6 @@ Keputusan yang perlu dikonfirmasi ke dosen: apakah ketiganya boleh disebut sebag
 | Functional suitability | Black box manual + otomatis |
 | Interaction capability (ex-usability) | Black box manual (alur pengguna) |
 | Performance efficiency | Pengukuran waktu muat ringan |
-| Security | Tidak diuji (di luar lingkup dan butuh izin khusus) |
-| Maintainability | Tidak diuji (butuh kode sumber) |
+| Security | Tidak diuji  |
+| Maintainability | Tidak diuji |
 | Compatibility / Flexibility | Cek lintas browser (otomatis, Playwright) |
