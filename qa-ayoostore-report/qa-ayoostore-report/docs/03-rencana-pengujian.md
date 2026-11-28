@@ -26,13 +26,12 @@ Mengikuti konsep ISO/IEC/IEEE 29119-1:2022 dan karakteristik ISO/IEC 25010:2023.
 White box: **tidak dilakukan** (kode tidak tersedia). Jika dosen mensyaratkan kategori ketiga, tanyakan apakah grey box atau pembagian fungsional/non-fungsional diterima.
 
 ## 4. Lingkungan
-`[ISI]` Versi OS, browser (Chrome, Firefox, Safari), perangkat ponsel, tanggal uji.
+ browser (Chrome, Firefox, Safari), perangkat ponsel,
 
 ## 5. Kriteria lulus
 - Semua test case prioritas tinggi dijalankan dan hasilnya terdokumentasi.
 - Defect ditulis dengan langkah reproduksi dan bukti.
-- `[ISI]` target persentase lulus.
 
 ## 6. Risiko
 - Situs live bisa berubah; hasil hanya berlaku pada tanggal uji.
-- Pembatasan pemilik (izin, rate limit); hentikan uji bila situs terganggu.
+- Pembatasan pemilik (izin, rate limit)
