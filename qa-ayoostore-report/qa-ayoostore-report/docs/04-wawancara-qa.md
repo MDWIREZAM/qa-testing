@@ -2,14 +2,13 @@
 
 Syarat: narasumber QA/tester dengan pengalaman **minimal 3 tahun**, wawancara online atau offline.
 
-> Bagian ini harus dilakukan oleh Anda dengan orang sungguhan. Isi hanya dari wawancara yang terjadi. Jangan mengarang narasumber atau jawaban.
 
 ## Data narasumber
-- Nama: `[ISI]`
-- Jabatan dan perusahaan: `[ISI]`
-- Pengalaman QA: `[ISI]` tahun (bukti: profil LinkedIn atau surat pernyataan)
-- Tanggal dan format wawancara (online/offline): `[ISI]`
-- Persetujuan dicantumkan nama dan kutipan: `[ISI]`
+- Nama: 
+- Jabatan dan perusahaan: 
+- Pengalaman QA:  (bukti: profil LinkedIn atau surat pernyataan)
+- Tanggal dan format wawancara (online/offline): 
+- Persetujuan dicantumkan nama dan kutipan: 
 
 ## Daftar pertanyaan
 1. Proses testing apa yang dipakai di tim Anda dari perencanaan sampai pelaporan?
@@ -21,4 +20,4 @@ Syarat: narasumber QA/tester dengan pengalaman **minimal 3 tahun**, wawancara on
 7. Pendapat Anda atas test plan di repo ini (`03`)? Apa yang kurang?
 
 ## Hasil
-`[ISI]` Ringkasan jawaban, bukti (rekaman/transkrip dengan izin), dan bagaimana masukan dipakai memperbaiki rencana.
+Ringkasan jawaban, bukti (rekaman/transkrip dengan izin), dan bagaimana masukan dipakai memperbaiki rencana.
