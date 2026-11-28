@@ -6,7 +6,7 @@ Gunakan **data fiktif**. Jangan melakukan pembayaran sungguhan. Sesuaikan test c
 
 | ID | Fitur | Teknik | Langkah | Hasil diharapkan | Hasil aktual | Status |
 |---|---|---|---|---|---|---|
-| BB-01 | Beranda | Fungsional | Buka `/` | Halaman termuat, menu dan produk tampil | `[ISI]` | BELUM DIJALANKAN |
+| BB-01 | Beranda | Fungsional | Buka `/` | Halaman termuat, menu dan produk tampil | BErhasil |  DIJALANKAN |
 | BB-02 | Registrasi | EP valid | Isi semua field dengan data fiktif valid | Akun terbuat / pesan sukses | `[ISI]` | BELUM DIJALANKAN |
 | BB-03 | Registrasi | EP tidak valid | Email tanpa `@` | Ditolak dengan pesan jelas | `[ISI]` | BELUM DIJALANKAN |
 | BB-04 | Registrasi | EP kosong | Kirim form kosong | Pesan wajib isi tiap field | `[ISI]` | BELUM DIJALANKAN |
@@ -16,10 +16,10 @@ Gunakan **data fiktif**. Jangan melakukan pembayaran sungguhan. Sesuaikan test c
 | BB-08 | Login | EP tidak valid | Password salah | Ditolak, tidak membocorkan apakah email terdaftar | `[ISI]` | BELUM DIJALANKAN |
 | BB-09 | Login | Kosong | Kirim form kosong | Pesan wajib isi | `[ISI]` | BELUM DIJALANKAN |
 | BB-10 | Lupa password | Fungsional | Isi email akun uji | Pesan/email reset terkirim | `[ISI]` | BELUM DIJALANKAN |
-| BB-11 | Pencarian | EP ada | Cari kata produk umum | Hasil relevan | `[ISI]` | BELUM DIJALANKAN |
-| BB-12 | Pencarian | EP tidak ada | Cari string acak | Pesan tidak ada hasil, tanpa error | `[ISI]` | BELUM DIJALANKAN |
+| BB-11 | Pencarian | EP ada | Cari kata produk umum | Hasil relevan | Berhasil |  DIJALANKAN |
+| BB-12 | Pencarian | EP tidak ada | Cari string acak | Pesan tidak ada hasil, tanpa error | BErhasil` | BELUM DIJALANKAN |
 | BB-13 | Pencarian | BVA kosong | Kirim pencarian kosong | Ditangani tanpa error | Menampilkan semua produk tanpa error (dilaporkan penguji, 28 Nov 2026; screenshot menyusul) | LULUS (menunggu bukti) |
-| BB-14 | Katalog | Fungsional | Buka halaman detail produk | Nama, harga, gambar, deskripsi tampil | `[ISI]` | BELUM DIJALANKAN |
+| BB-14 | Katalog | Fungsional | Buka halaman detail produk | Nama, harga, gambar, deskripsi tampil | BErhasil | DIJALANKAN |
 | BB-15 | Keranjang | Fungsional | Tambah produk, ubah jumlah, hapus | Total harga ikut berubah benar | `[ISI]` | BELUM DIJALANKAN |
 | BB-16 | Keranjang | BVA jumlah | Jumlah 0, 1, batas stok yang tertera di halaman produk (mis. 17 dan 18 pada RAPOO M300), angka sangat besar, negatif | Ditolak atau dibatasi dengan wajar | `[ISI]` | BELUM DIJALANKAN |
 | BB-17 | Checkout | Fungsional | Lanjut sampai **sebelum** pembayaran | Form alamat dan ringkasan tampil; berhenti sebelum bayar | `[ISI]` | BELUM DIJALANKAN |
